@@ -13,3 +13,4 @@ It is a HTML basic Project. It comprises of
 3) Other HyperLink Pages for Different Categories
 	a) Toys
  	b)  Stationary etc etc.
+https://jaykumarsanandiya.github.io/Shopping/
